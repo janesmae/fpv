@@ -4,18 +4,18 @@ Status: November-December 2017
 
 ## Quadcopter
 
-- Frame: 130mm Carbon Fiber FPV Quadcopter Frame (ReadyToSky) - [AliExpress](130-frame) (~7EUR)
-- Motors: 4 x Emax RS1306 4000kv Brushless - [AliExpress](130-motors) (~36EUR)
-- ESCs: LittleBee 20A OPTO PRO - [AliExpress](130-escs) (~24EUR) 
-- FC: OMNIBUS Betaflight F4 V2 PRO - [AliExpress](130-fc) (~15EUR)
-- Camera: 1000TVL 1/3 CCD 110 Deg. - [AliExpress](130-camera) (~9EUR)
-- RX: Frsky XM+ Micro - [AliExpress](130-rx) (~10EUR)
-- Alternative RX: Frsky XSR - [AliExpress](130-rx-alt) (~15EUR)
-- VTX: Eachine VTX03 - [AliExpress](130-vtx) (~10EUR)
+- Frame: 130mm Carbon Fiber FPV Quadcopter Frame (ReadyToSky) - [AliExpress][130-frame] (~7EUR)
+- Motors: 4 x Emax RS1306 4000kv Brushless - [AliExpress][130-motors] (~36EUR)
+- ESCs: LittleBee 20A OPTO PRO - [AliExpress][130-escs] (~24EUR) 
+- FC: OMNIBUS Betaflight F4 V2 PRO - [AliExpress][130-fc] (~15EUR)
+- Camera: 1000TVL 1/3 CCD 110 Deg. - [AliExpress][130-camera] (~9EUR)
+- RX: Frsky XM+ Micro - [AliExpress][130-rx] (~10EUR)
+- Alternative RX: Frsky XSR - [AliExpress][130-rx-alt] (~15EUR)
+- VTX: Eachine VTX03 - [AliExpress][130-vtx] (~10EUR)
 
 ### Addditional
 
-- PDB: MATEK PDB XT60 - [AliExpress](130-pdb) (~3EUR)
+- PDB: MATEK PDB XT60 - [AliExpress][130-pdb] (~3EUR)
 
 ### Other
 
